@@ -15,4 +15,4 @@
 💡 Always learning and exploring new technologies in full-stack and mobile development.  
 
 📬 **Let's connect!**  
-[✉️ ebralhayki@gmail.com](#)  
+✉️ ebralhayki@gmail.com(#)  
